@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: a077af88c229e12429a319c0fc272184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2103856044504876686
+    second: 3,2,1 Go-Mejorado-Sheet_0
+  - first:
+      213: -2435195197349661544
+    second: 3,2,1 Go-Mejorado-Sheet_1
+  - first:
+      213: 1343450086515368125
+    second: 3,2,1 Go-Mejorado-Sheet_2
+  - first:
+      213: -7787981040857052623
+    second: 3,2,1 Go-Mejorado-Sheet_3
+  - first:
+      213: 1421496879155984867
+    second: 3,2,1 Go-Mejorado-Sheet_4
+  - first:
+      213: 7474273779108476102
+    second: 3,2,1 Go-Mejorado-Sheet_5
+  - first:
+      213: -250956403942011709
+    second: 3,2,1 Go-Mejorado-Sheet_6
+  - first:
+      213: 4644205021079250785
+    second: 3,2,1 Go-Mejorado-Sheet_7
+  - first:
+      213: -7918586123741458938
+    second: 3,2,1 Go-Mejorado-Sheet_8
+  - first:
+      213: 239492849083968150
+    second: 3,2,1 Go-Mejorado-Sheet_9
+  - first:
+      213: -2959722620121158524
+    second: 3,2,1 Go-Mejorado-Sheet_10
+  - first:
+      213: -7778054738856293762
+    second: 3,2,1 Go-Mejorado-Sheet_11
+  - first:
+      213: -3142502318773995552
+    second: 3,2,1 Go-Mejorado-Sheet_12
+  - first:
+      213: 1511559471511906483
+    second: 3,2,1 Go-Mejorado-Sheet_13
+  - first:
+      213: 5480853293864399276
+    second: 3,2,1 Go-Mejorado-Sheet_14
+  - first:
+      213: -569039264441619552
+    second: 3,2,1 Go-Mejorado-Sheet_15
+  - first:
+      213: -2654034372183818973
+    second: 3,2,1 Go-Mejorado-Sheet_16
+  - first:
+      213: 3570164515190237224
+    second: 3,2,1 Go-Mejorado-Sheet_17
+  - first:
+      213: -4275339903805091856
+    second: 3,2,1 Go-Mejorado-Sheet_18
+  - first:
+      213: -4751673012752749479
+    second: 3,2,1 Go-Mejorado-Sheet_19
+  - first:
+      213: 1388038630006869635
+    second: 3,2,1 Go-Mejorado-Sheet_20
+  - first:
+      213: -2467708797528159203
+    second: 3,2,1 Go-Mejorado-Sheet_21
+  - first:
+      213: -2100595215620930872
+    second: 3,2,1 Go-Mejorado-Sheet_22
+  - first:
+      213: -3045152227665241305
+    second: 3,2,1 Go-Mejorado-Sheet_23
+  - first:
+      213: -7115232196898018067
+    second: 3,2,1 Go-Mejorado-Sheet_24
+  - first:
+      213: -8623190875093008328
+    second: 3,2,1 Go-Mejorado-Sheet_25
+  - first:
+      213: 7737759718217293416
+    second: 3,2,1 Go-Mejorado-Sheet_26
+  - first:
+      213: -3509971677647518802
+    second: 3,2,1 Go-Mejorado-Sheet_27
+  - first:
+      213: -5153694223489342950
+    second: 3,2,1 Go-Mejorado-Sheet_28
+  - first:
+      213: -8394392841502539844
+    second: 3,2,1 Go-Mejorado-Sheet_29
+  - first:
+      213: -837565824554871656
+    second: 3,2,1 Go-Mejorado-Sheet_30
+  - first:
+      213: 4727342267709329363
+    second: 3,2,1 Go-Mejorado-Sheet_31
+  - first:
+      213: -2206183694765121237
+    second: 3,2,1 Go-Mejorado-Sheet_32
+  - first:
+      213: 3389071511590187987
+    second: 3,2,1 Go-Mejorado-Sheet_33
+  - first:
+      213: -2162306372655894296
+    second: 3,2,1 Go-Mejorado-Sheet_34
+  - first:
+      213: -9130130829787046758
+    second: 3,2,1 Go-Mejorado-Sheet_35
+  - first:
+      213: -240675538811166520
+    second: 3,2,1 Go-Mejorado-Sheet_36
+  - first:
+      213: -3087718544411569478
+    second: 3,2,1 Go-Mejorado-Sheet_37
+  - first:
+      213: -2552473058881192638
+    second: 3,2,1 Go-Mejorado-Sheet_38
+  - first:
+      213: -248313113596309070
+    second: 3,2,1 Go-Mejorado-Sheet_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2797ab0031a9dc2e0800000000000000
+      internalID: -2103856044504876686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8947c37ced2743ed0800000000000000
+      internalID: -2435195197349661544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0673c5cb4e4a210800000000000000
+      internalID: 1343450086515368125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0d3e71888be390800000000000000
+      internalID: -7787981040857052623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e93b6351eb2ab310800000000000000
+      internalID: 1421496879155984867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f6c5d664f9b760800000000000000
+      internalID: 7474273779108476102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc4de0fa7c648cf0800000000000000
+      internalID: -250956403942011709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167a3815cd7837040800000000000000
+      internalID: 4644205021079250785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e8d0bffd78b1290800000000000000
+      internalID: -7918586123741458938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 864
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a65e33a79d25300800000000000000
+      internalID: 239492849083968150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6df155f3fce6d0800000000000000
+      internalID: -2959722620121158524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4de6cc6cce0490800000000000000
+      internalID: -7778054738856293762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e772af6ac69364d0800000000000000
+      internalID: -3142502318773995552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8285ca4532af410800000000000000
+      internalID: 1511559471511906483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca131de2807ef0c40800000000000000
+      internalID: 5480853293864399276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab25bbcdcd5a18f0800000000000000
+      internalID: -569039264441619552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7e48dcc9fa2bd0800000000000000
+      internalID: -2654034372183818973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286e9506b5cb8130800000000000000
+      internalID: 3570164515190237224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff05ab5201faa4c0800000000000000
+      internalID: -4275339903805091856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 576
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cef02029aae0eb0800000000000000
+      internalID: -4751673012752749479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e4414a7cd434310800000000000000
+      internalID: 1388038630006869635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4a325cefe0cdd0800000000000000
+      internalID: -2467708797528159203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28704e7cf29d2e0800000000000000
+      internalID: -2100595215620930872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b160fce227db5d0800000000000000
+      internalID: -3045152227665241305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca879d30e914d90800000000000000
+      internalID: -7115232196898018067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83001b33695445880800000000000000
+      internalID: -8623190875093008328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e1ba1a77b026b60800000000000000
+      internalID: 7737759718217293416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea343261b531a4fc0800000000000000
+      internalID: -3509971677647518802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126fefb8666a78b0800000000000000
+      internalID: -5153694223489342950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 288
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb821af20218b80800000000000000
+      internalID: -8394392841502539844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8945667f15e5064f0800000000000000
+      internalID: -837565824554871656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0186feb4ea9140800000000000000
+      internalID: 4727342267709329363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2124445e9f0261e0800000000000000
+      internalID: -2206183694765121237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3babe6596680f20800000000000000
+      internalID: 3389071511590187987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0384a7fc1fdf1e0800000000000000
+      internalID: -2162306372655894296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c53b142624b4180800000000000000
+      internalID: -9130130829787046758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e8036fd2f8acf0800000000000000
+      internalID: -240675538811166520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab256f1e7583625d0800000000000000
+      internalID: -3087718544411569478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24db1aac64bc39cd0800000000000000
+      internalID: -2552473058881192638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3,2,1 Go-Mejorado-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1550fe980dd8cf0800000000000000
+      internalID: -248313113596309070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

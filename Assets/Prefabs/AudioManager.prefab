@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4786833237794294893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4786833237794294892}
+  - component: {fileID: 4786833237794294891}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4786833237794294892
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4786833237794294893}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.0759622, y: -1.1269735, z: -0.88964844}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4786833237794294891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4786833237794294893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6300978fd63e42e449e2f13beb36e9d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: puerta
+    clip: {fileID: 8300000, guid: 0895301dfe5030043b7eb10c06f71758, type: 3}
+    output: {fileID: 6015135951910635272, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: 321go
+    clip: {fileID: 8300000, guid: 0eb0042cc2cc37a41959820aa446e747, type: 3}
+    output: {fileID: -4348517332988022934, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: panchoDesliza
+    clip: {fileID: 8300000, guid: 0ef79ed62df811d4591e2e2a9a8d2c76, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: armaChad
+    clip: {fileID: 8300000, guid: aa794866cb6a424489d59946ad62ddd6, type: 3}
+    output: {fileID: 7874978631935752872, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: golpeChad
+    clip: {fileID: 8300000, guid: f566ddc7b9310f34db8f3ad5ba849cc6, type: 3}
+    output: {fileID: 7874978631935752872, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: saltoChad
+    clip: {fileID: 8300000, guid: 26e0da9a6fa15234dacdc0ba1f3b4dfd, type: 3}
+    output: {fileID: 7874978631935752872, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: bolaRemate
+    clip: {fileID: 8300000, guid: 5f57b2e36a4683f4188f125205574e0c, type: 3}
+    output: {fileID: 8390477208400615089, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: bolaSuelo
+    clip: {fileID: 8300000, guid: 095d8af6967c50d45926c4886695094c, type: 3}
+    output: {fileID: 8390477208400615089, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: bolaReboteAnimal
+    clip: {fileID: 8300000, guid: a0a772f3d54e72d4dbf98c26bbe0e201, type: 3}
+    output: {fileID: 8390477208400615089, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: bolaRebotePared
+    clip: {fileID: 8300000, guid: f8e12d5287ded294497e57e7d60412f9, type: 3}
+    output: {fileID: 8390477208400615089, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: bolaSuper
+    clip: {fileID: 8300000, guid: 4f6a239bb3e5c0e4cb19b865f6d3022f, type: 3}
+    output: {fileID: 8390477208400615089, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: sagashiOk
+    clip: {fileID: 8300000, guid: c77e67fe196d9a24bafadb48dfc4944f, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: superAnnouncer
+    clip: {fileID: 8300000, guid: 942ad79ea5d29b34fbf411337bd78a61, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: chadPatada
+    clip: {fileID: 8300000, guid: 9003749b58b47004383933352c7928af, type: 3}
+    output: {fileID: 7874978631935752872, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: settingsOpen
+    clip: {fileID: 8300000, guid: 75bbc75d7e275e8448d9ae9fa3b7709a, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: settingsClose
+    clip: {fileID: 8300000, guid: 5cc9c68f8ac8dfd4fa4b1c70705971d9, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: exitOpen
+    clip: {fileID: 8300000, guid: 057ef6d33f587e04ca4f90163fd17c62, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: exitClose
+    clip: {fileID: 8300000, guid: e1048f42f3aad2c40852f44d20c9c498, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: switchToggle
+    clip: {fileID: 8300000, guid: 2c053c435a93d6341879ccdb89b6388b, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: pip
+    clip: {fileID: 8300000, guid: 479e5f80197c2a246a7d7beb992f23e0, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: botonPress
+    clip: {fileID: 8300000, guid: 924465d849bf1eb4c92cd16562c55fbd, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: youLose
+    clip: {fileID: 8300000, guid: 97181c33b6f31c64fb7ebdf36bb6cea3, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: youWin
+    clip: {fileID: 8300000, guid: 7989a95b4d7a26a4cbc4f6f587277cca, type: 3}
+    output: {fileID: -3061711859268020004, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  anouncer:
+  - name: anouncer0
+    clip: {fileID: 8300000, guid: f3e09091122ed9b4897784f24b13c085, type: 3}
+    output: {fileID: -4348517332988022934, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: anouncer1
+    clip: {fileID: 8300000, guid: 08b549f788de20947a11b73240a5d196, type: 3}
+    output: {fileID: -4348517332988022934, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: anouncer2
+    clip: {fileID: 8300000, guid: e7c22a9fde38570448154dae8e21036a, type: 3}
+    output: {fileID: -4348517332988022934, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: anouncer3
+    clip: {fileID: 8300000, guid: 67e62a7e192448a40bb3b2fd3d6ad07f, type: 3}
+    output: {fileID: -4348517332988022934, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: anouncer4
+    clip: {fileID: 8300000, guid: 509f419916942384e9c7be4dee83ef28, type: 3}
+    output: {fileID: -4348517332988022934, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  panchitos:
+  - name: marcador0
+    clip: {fileID: 8300000, guid: 3ad59e07924d81a4b9d7162d6de62ef4, type: 3}
+    output: {fileID: -8763525345209456446, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: marcador1
+    clip: {fileID: 8300000, guid: 35b0ae3cf3f73604bb07fd530cad7a3b, type: 3}
+    output: {fileID: -8763525345209456446, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: marcador2
+    clip: {fileID: 8300000, guid: b45f7a6d3d267c34fa34014741e340d3, type: 3}
+    output: {fileID: -8763525345209456446, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: marcador3
+    clip: {fileID: 8300000, guid: 6fd91bc25a90c824698be42db341d0d7, type: 3}
+    output: {fileID: -8763525345209456446, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: marcador4
+    clip: {fileID: 8300000, guid: 6e444a29a3619bb409ee84c78ff5da33, type: 3}
+    output: {fileID: -8763525345209456446, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  animalSounds:
+  - name: perro
+    clip:
+    - {fileID: 8300000, guid: 5588500751cd2a64a91c0d6f84f13b6c, type: 3}
+    - {fileID: 8300000, guid: 9139572748449ba4d96de3bfbb81b61f, type: 3}
+    - {fileID: 8300000, guid: 9b44e5d6c740e1e4699aaff57f610421, type: 3}
+    - {fileID: 8300000, guid: c5e8b6f320ead334698ea58027981a85, type: 3}
+    output: {fileID: -5515022469683527981, guid: 4e392db64f5fe8344beb11fd1ab52931,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: 
+    clip: []
+    output: {fileID: 0}
+    volume: 0
+    pitch: 0
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: 
+    clip: []
+    output: {fileID: 0}
+    volume: 0
+    pitch: 0
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: 
+    clip: []
+    output: {fileID: 0}
+    volume: 0
+    pitch: 0
+    loop: 0
+    mute: 0
+    source: {fileID: 0}

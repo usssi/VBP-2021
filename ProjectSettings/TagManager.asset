@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chino
+  - Ball
+  - GameManager
+  - Animal
+  - ReceibePos
+  - chadBlowPos
+  - AudioSource
+  - DefaultBlowPos
+  - Door
+  - AnimalGetter
+  - AnimalPath
+  - PuertaAbierta
+  - Explosion
+  - BallPosCaida
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DecorationObjects
+    uniqueID: 954480971
+    locked: 0
+  - name: GameObjects
+    uniqueID: 3087305051
+    locked: 0
+  - name: ChadLayer
+    uniqueID: 3104075799
+    locked: 0
+  - name: Tapa
+    uniqueID: 3310814329
+    locked: 0

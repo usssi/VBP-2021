@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FishAnimCont
+  m_Controller: {fileID: 9100000, guid: 00bfdff4c0c4f394c9ad97fd3b19d407, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f33417b8449af7f4ead8dd91cd0916f1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 29502f7216830d44db2af45a55399adb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a852baa35e93c69498f1713a97475ae4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5e904777b8026d14f801c5c63878d209, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 970efbe87be766549a4831e53556c965, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 79b5f9d258aaa53418710acc0b038882, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c47edc6f040f12445aebd8b86c878b6c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5212030b43f0cbe4394560572d6bb7d9, type: 2}
